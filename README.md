@@ -23,4 +23,4 @@
 
 - See the GIF below to see the application being used.
 
-![](https://p131.p1.n0.cdn.getcloudapp.com/items/OAuoD5XQ/257266aa-ab8d-4bf8-894a-5060d568c996.gif?v=e21dacdcea8a2d31f859cddd8956ccda)
+![Streamlit_App_Pandascore_GIF](https://github.com/Symo-Stuart/Pandascore_API_Project/assets/124942901/0273fcb7-d7e4-4f41-b398-1d3655ace72a)
