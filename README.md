@@ -17,7 +17,7 @@
 
 - Using Streamlit, I developed a web application that allows an end user to supply an access token provided by `Pandascore` with all the necessary customization required to get output data from the API in the form of `.json` with the addition of the data being stored in a PostgreSQL database with the JSON data type.
 
-![](https://p131.p1.n0.cdn.getcloudapp.com/items/yAuJEOq5/53aabe59-740b-47c2-a3e4-72dddd2ac8f1.jpg?v=807841fff369bd65da01d247ab0d5f8
+![](https://p131.p1.n0.cdn.getcloudapp.com/items/yAuJEOq5/53aabe59-740b-47c2-a3e4-72dddd2ac8f1.jpg?v=807841fff369bd65da01d247ab0d5f86)
 
 ### Usage
 
